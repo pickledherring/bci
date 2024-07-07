@@ -1,3 +1,9 @@
+bin/
+pyenv.cfg
+mc_maze/
+mc_maze_large/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
