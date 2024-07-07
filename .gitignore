@@ -1,8 +1,8 @@
 bin/
-pyenv.cfg
+pyvenv.cfg
 mc_maze/
 mc_maze_large/
-
+share
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
